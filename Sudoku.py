@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 14 09:59:18 2020
-
-@author: mario
-"""
-#code en binôme avec Juliette GILLE
-
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
